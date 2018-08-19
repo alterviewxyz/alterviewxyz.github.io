@@ -27,6 +27,7 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     const postPage = path.resolve('src/templates/post.js');
     const categoryPage = path.resolve('src/templates/category.js');
+    const podcastPage = path.resolve('src/templates/podcast.js');
     resolve(
       graphql(`
         {
@@ -39,6 +40,7 @@ exports.createPages = ({ graphql, actions }) => {
                 frontmatter {
                   title
                   category
+                  podcast
                 }
               }
             }
@@ -68,14 +70,19 @@ exports.createPages = ({ graphql, actions }) => {
         });
 
         let categories = [];
+        let podcasts = [];
 
         _.each(posts, edge => {
           if (_.get(edge, 'node.frontmatter.category')) {
             categories = categories.concat(edge.node.frontmatter.category);
           }
+          if (_.get(edge, 'node.frontmatter.podcast')) {
+            podcasts = podcasts.concat(edge.node.frontmatter.podcast);
+          }
         });
 
         categories = _.uniq(categories);
+        podcasts = _.uniq(podcasts);
 
         categories.forEach(category => {
           createPage({
@@ -83,6 +90,16 @@ exports.createPages = ({ graphql, actions }) => {
             component: categoryPage,
             context: {
               category,
+            },
+          });
+        });
+
+        podcasts.forEach(podcast => {
+          createPage({
+            path: `/podcasts/${_.kebabCase(podcast)}`,
+            component: podcastPage,
+            context: {
+              podcast,
             },
           });
         });

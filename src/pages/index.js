@@ -68,6 +68,7 @@ const IndexPage = ({
             timeToRead={post.node.timeToRead}
             slug={post.node.fields.slug}
             category={post.node.frontmatter.category}
+            podcast={post.node.frontmatter.podcast}
             key={post.node.fields.slug}
           />
         ))}
@@ -98,6 +99,7 @@ export const IndexQuery = graphql`
             title
             date(formatString: "DD.MM.YYYY")
             category
+            podcast
           }
           excerpt(pruneLength: 200)
           timeToRead

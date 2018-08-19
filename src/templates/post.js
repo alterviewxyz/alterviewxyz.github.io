@@ -52,6 +52,8 @@ const Post = props => {
           <Subline>
             {post.date} &mdash; {postNode.timeToRead} Min Read &mdash; In{' '}
             <Link to={`/categories/${kebabCase(post.category)}`}>{post.category}</Link>
+            | 
+            <Link to={`/podcasts/${kebabCase(post.podcast)}`}>{post.podcast}</Link>
           </Subline>
           <PostContent dangerouslySetInnerHTML={{ __html: postNode.html }} />
           <PrevNext prev={prev} next={next} />
@@ -89,6 +91,7 @@ export const postQuery = graphql`
         title
         date(formatString: "DD.MM.YYYY")
         category
+        podcast
       }
       timeToRead
     }
