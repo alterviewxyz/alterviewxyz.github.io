@@ -21,7 +21,7 @@
         <itunes:author>Alterview Podcasts</itunes:author>
         <itunes:summary>پادکست جیگسا پادکستیه در هر قسمت اون ما یک مسائله نسبتاً جالب رو بررسی می‌کنیم.</itunes:summary>
         <itunes:category text="Society & Culture"></itunes:category>
-        <atom:link href="https://jigsawpodcast.podomatic.com/rss2.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://alterview.xyz/podcasts/jigsaw/rss2.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>Episode 1: Bohrān-e Xatt-e Fārsi</title>
             <description>
