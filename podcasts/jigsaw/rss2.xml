@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/" 
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Jigsaw Podcast | جیگسا</title>
+        <link>https://alterview.xyz/podcasts/jigsaw</link>
+        <description>پادکست جیگسا پادکستیه در هر قسمت اون ما یک مسائله نسبتاً جالب رو بررسی می‌کنیم.</description>
+        <language>en-us</language>
+        <generator>Mehrad Rousta Hands</generator>
+        <pubDate>Fri, 20 Jul 2018 07:04:11 +0000</pubDate>
+        <itunes:keywords>پادکست,فارسی,persian,farsi,Society & Culture</itunes:keywords>
+        <itunes:subtitle>پادکست جیگسا - بررسی یک مسائله‌ی جالب</itunes:subtitle>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+        <itunes:image href="https://assets.podomatic.net/ts/bd/7f/be/mehrad77/1400x1400_12900275.jpg"/>
+        <itunes:author>Alterview Podcasts</itunes:author>
+        <itunes:summary>پادکست جیگسا پادکستیه در هر قسمت اون ما یک مسائله نسبتاً جالب رو بررسی می‌کنیم.</itunes:summary>
+        <itunes:category text="Society & Culture"></itunes:category>
+        <atom:link href="https://jigsawpodcast.podomatic.com/rss2.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Episode 1: Bohrān-e Xatt-e Fārsi</title>
+            <description>
+                <img src="https://assets.podomatic.net/ts/bd/7f/be/mehrad77/1400x1400_12900308.jpg" alt="itunes pic" />
+                <br />
+            در قسمت یک موضوع ما «بحرانِ خطِ فارسی» است و می‌پرسیم که چرا این خط مشکل داره و چرا برخی پیشنهاد تغیرش رو دادند؟ ۱. در مورد این صحبت می‌کنیم که خط از کجا به وجود اومد و از یک خدای نامدار مصری می‌گیم؛ ۲. توضیحی در مورد واکه‌ها و هم‌خوان‌ها می‌دیم؛ ۳. به دل مشروطه می‌ریم و در مورد چندین‌نفر که تلاش‌هایی برای تغیر این خط کردند صحبت می‌کنیم. از افرادی همچون آخوندزاده و ملکم گرفته تا آزاد مراغی. ۴. و گفت‌وگویی داریم با دانیال بهزادی، فعال حوزه آزادی نرم‌افزار که از قضا، دستی هم در حوزه ادبیات داره. ۵. و چندتا از استانداردهای ترانویسی رو بررسی می‌کنیم. جیگسا در تلگرام و اینستاگرام موجود است: تلگرام: https://t.me/JigsawPodcast اینستاگرام: http://instagram.com/jigsawpodcast ما رو می‌تونید در توییتر هم پیدا کنید: مهراد: https://twitter.com/mehrad77 سارو: https://twitter.com/khezer77 منابع: ۱. کتاب راهی از بن‌بست از مظاهر مصفا ۲. در پیرامون تغییر خط فارسی از یحیی ذکاء ۳. کتاب Writing and Script: A Very Short Introduction از Andrew Robinson ۴. انبوهی از مطالب وبِ فارسی و انگلیسی ۵. استاندارد eurofarsi : https://web.archive.org/web/20110710204933/http://www.eurofarsi.com ۶. استاندارد آوانگاری نام‌های جغرافیایی: http://geonames.ncc.org.ir/homepage.aspx?site=geonames.ncc.org&tabid=4560&lang=fa-IR ۸. کتاب eFarsi - A Latin-Based Writing Scheme for Persian: http://www.ida.liu.se/~jalma/efarsi.pdf وب‌گاه مهمان این قسمت، دانیال بهزادی: https://gnu.rocks/ جیگسا رو می‌تونید به جای تلگرام از خوراکش توی اپ‌های پادکست‌گیر گوش کنید. همچنین به زودی در ناملیک و شنوتو و Itunes هم موجود خواهیم شد :) </description>
+            <guid isPermaLink="true">https://jigsawpodcast.podomatic.com/entry/2018-07-15T10_27_36-07_00</guid>
+            <comments>https://www.podomatic.com/podcasts/jigsawpodcast/episodes/2018-07-15T10_27_36-07_00</comments>
+            <pubDate>Sun, 15 Jul 2018 17:27:36 +0000</pubDate>
+            <dcterms:modified>2018-07-15</dcterms:modified>
+            <dcterms:created>2018-07-15</dcterms:created>
+            <link>https://www.podomatic.com/podcasts/jigsawpodcast/episodes/2018-07-15T10_27_36-07_00</link>
+            <dc:creator>Mehrad Rousta</dc:creator>
+            <itunes:keywords></itunes:keywords>
+            <enclosure url="https://jigsawpodcast.podomatic.com/enclosure/2018-07-15T10_27_36-07_00.mp3" length="27868059" type="audio/mpeg"/>
+            <itunes:duration>2962</itunes:duration>
+            <itunes:image href="https://assets.podomatic.net/ts/bd/7f/be/mehrad77/1400x1400_12900308.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>در قسمت یک موضوع ما «بحرانِ خطِ فارسی» است و می‌پرسیم که چرا این خط مشکل داره و چرا برخی پیشنهاد تغیرش رو دادند؟ ۱. در مورد این صحبت می‌کنیم که خط از کجا به وجود اومد و از یک خدای نامدار مصری می‌گیم؛ ۲. توضیحی در مورد واکه‌ها و هم‌خوان‌ها می‌دیم؛ ۳. به دل مشروطه می‌ریم و در مورد چندین‌نفر که تلاش‌هایی برای تغیر این خط کردند صحبت می‌کنیم. از افرادی همچون آخوندزاده و ملکم گرفته تا آزاد مراغی. ۴. و گفت‌وگویی داریم با دانیال بهزادی، فعال حوزه آزادی نرم‌افزار که از قضا، دستی هم در حوزه ادبیات داره. ۵. و چندتا از استانداردهای ترانویسی رو بررسی می‌کنیم. جیگسا در تلگرام و اینستاگرام موجود است: تلگرام: https://t.me/JigsawPodcast اینستاگرام: http://instagram.com/jigsawpodcast ما رو می‌تونید در توییتر هم پیدا کنید: مهراد: https://twitter.com/mehrad77 سارو: https://twitter.com/khezer77 منابع: ۱. کتاب راهی از بن‌بست از مظاهر مصفا ۲. در پیرامون تغییر خط فارسی از یحیی ذکاء ۳. کتاب Writing and Script: A Very Short Introduction از Andrew Robinson ۴. انبوهی از مطالب وبِ فارسی و انگلیسی ۵. استاندارد eurofarsi : https://web.archive.org/web/20110710204933/http://www.eurofarsi.com ۶. استاندارد آوانگاری نام‌های جغرافیایی: http://geonames.ncc.org.ir/homepage.aspx?site=geonames.ncc.org&tabid=4560&lang=fa-IR ۸. کتاب eFarsi - A Latin-Based Writing Scheme for Persian: http://www.ida.liu.se/~jalma/efarsi.pdf وب‌گاه مهمان این قسمت، دانیال بهزادی: https://gnu.rocks/ جیگسا رو می‌تونید به جای تلگرام از خوراکش توی اپ‌های پادکست‌گیر گوش کنید. همچنین به زودی در ناملیک و شنوتو و Itunes هم موجود خواهیم شد :) </itunes:summary>
+            <itunes:subtitle>در قسمت یک موضوع ما «بحرانِ خطِ فارسی» است و می‌پرسیم که چرا این خط مشکل داره و چرا برخی پیشنهاد ...</itunes:subtitle>
+        </item>
+        <item>
+            <title>Jigsaw podcast - Episode 0: Moarrefi-e Pādkast</title>
+            <description>
+                <img src="https://assets.podomatic.net/ts/bd/7f/be/mehrad77/1400x1400_12830286.jpg" alt="itunes pic" />
+                <br />
+                این اپیزود صفر پادکست جیگا است. در این اپیزود به معرفی خودمون و اهدافمون می‌پردازیم و سعی می‌کنیم شما رو برای قسمت نخست، آماده کنیم. راه‌های ارتباطی: https://t.me/jigsawpodcast https://instagram.com/jigsawpodcast https://twitter.com/mehrad77 https://twitter.com/khezer77</description>
+            <guid isPermaLink="true">https://jigsawpodcast.podomatic.com/entry/2018-06-01T19_52_24-07_00</guid>
+            <comments>https://www.podomatic.com/podcasts/jigsawpodcast/episodes/2018-06-01T19_52_24-07_00</comments>
+            <pubDate>Sat, 02 Jun 2018 02:52:24 +0000</pubDate>
+            <dcterms:modified>2018-06-02</dcterms:modified>
+            <dcterms:created>2018-06-02</dcterms:created>
+            <link>https://www.podomatic.com/podcasts/jigsawpodcast/episodes/2018-06-01T19_52_24-07_00</link>
+            <dc:creator>Mehrad Rousta</dc:creator>
+            <itunes:keywords></itunes:keywords>
+            <enclosure url="https://jigsawpodcast.podomatic.com/enclosure/2018-06-01T19_52_24-07_00.mp3" length="18641215" type="audio/mpeg"/>
+            <itunes:duration>961</itunes:duration>
+            <itunes:image href="https://assets.podomatic.net/ts/bd/7f/be/mehrad77/1400x1400_12830286.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>این اپیزود صفر پادکست جیگا است. در این اپیزود به معرفی خودمون و اهدافمون می‌پردازیم و سعی می‌کنیم شما رو برای قسمت نخست، آماده کنیم. راه‌های ارتباطی: https://t.me/jigsawpodcast https://instagram.com/jigsawpodcast https://twitter.com/mehrad77 https://twitter.com/khezer77</itunes:summary>
+            <itunes:subtitle>این اپیزود صفر پادکست جیگا است. در این اپیزود به معرفی خودمون و اهدافمون می‌پردازیم و سعی می‌کنیم...</itunes:subtitle>
+        </item>
+    </channel>
+</rss>
