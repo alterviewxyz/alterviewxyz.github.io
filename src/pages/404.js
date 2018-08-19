@@ -43,43 +43,14 @@ const UnkonwPage = ({ data }) => (
       <Hero>
         <h1>404!</h1>
         <p>
-          Sometinhg is not right with {data.site.siteMetadata.title}!
+          Sometinhg is not right with me!
         </p>
       </Hero>
       <Content>
         <SectionTitle>These Links May Helop You:</SectionTitle>
-        {/* {postEdges.map(post => (
-          <Article
-            title={post.node.frontmatter.title}
-            date={post.node.frontmatter.date}
-            excerpt={post.node.excerpt}
-            timeToRead={post.node.timeToRead}
-            slug={post.node.fields.slug}
-            category={post.node.frontmatter.category}
-            podcast={post.node.frontmatter.podcast}
-            key={post.node.fields.slug}
-          />
-        ))} */}
-      </Content>
+          </Content>
     </Wrapper>
   </Layout>
 );
 
 export default UnkonwPage;
-
-UnkonwPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array.isRequired,
-    }),
-  }).isRequired,
-};
-
-export const query = graphql`
-  query UnkonwQuery {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }`
